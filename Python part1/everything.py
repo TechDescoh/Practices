@@ -1,4 +1,4 @@
-#Using every function that I learned in the third chapter of the book at least one
+#Using every function that I learned in the third chapter of the book at least once
 things = ["minecraft", "mariana", "sofía", "medellín", "tokyo", "armenia", "drawing", "reading", "programming"]
 print(things)
 
